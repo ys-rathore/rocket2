@@ -11,7 +11,7 @@ export function MeshBackground() {
         <div className="absolute inset-0 bg-[radial-gradient(circle_at_40%_80%,rgba(168,85,247,0.1),transparent_50%)]" />
       </div>
 
-      {/* Grid mesh (main pattern) */}
+      {/* Grid mesh */}
       <div className="absolute inset-0 bg-[linear-gradient(to_right,#ffffff10_1px,transparent_1px),linear-gradient(to_bottom,#ffffff10_1px,transparent_1px)] bg-[size:3rem_3rem]" />
 
       {/* Secondary finer grid */}
