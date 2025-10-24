@@ -2008,3 +2008,14 @@ html {
     opacity: .5;
   }
 }
+
+html,
+body,
+#root {
+  background-color: transparent !important;
+  overflow-x: hidden;
+}
+* {
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
