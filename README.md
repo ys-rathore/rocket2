@@ -1,7 +1,7 @@
 
-  # Intro Page for Youth Motivation
+  # Rocket Original
 
-  This is a code bundle for Intro Page for Youth Motivation. The original project is available at https://www.figma.com/design/AP8Gw1vDfQsStOagKXEFU3/Intro-Page-for-Youth-Motivation.
+  This is a code bundle for Rocket Original. The original project is available at https://www.figma.com/design/AP8Gw1vDfQsStOagKXEFU3/Rocket-Original.
 
   ## Running the code
 
